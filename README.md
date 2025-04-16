@@ -9,10 +9,6 @@ Currently working on **Agentfy**, a multi-agent automation platform for social m
 - 💼 Specialties: Python · FastAPI · Streamlit · LLM Orchestration · Social Media Analytics  
 - 🧩 Interests: Agent systems, data pipelines, NLP, computer vision
 
-## 📫 Contact  
-- Email: [lqiu314@gmail.com](mailto:lqiu314@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/lucy-qiu-8b3b972b6/](https://linkedin.com/in/yourprofile)  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -33,10 +29,19 @@ Currently working on **Agentfy**, a multi-agent automation platform for social m
 - **TikHub** — Foundational data engine powering real-time insights from platforms like TikTok, X, and YouTube  
 - **Impactlytics** — Causal analysis of content performance for influencers and brands
 
-##🔗 Links for TikHub
+--
+## 📫 Contact  
+- Email: [lqiu314@gmail.com](mailto:lqiu314@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/lucy-qiu-8b3b972b6/](https://linkedin.com/in/yourprofile)  
 
-- 📧 Email: [lulu@example.com](mailto:lulu@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [www.lululabs.dev](https://www.lululabs.dev)
-- 💬 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- 📂 GitHub: [github.com/yourusername](https://github.com/yourusername)
+--
+## 🔗 Links for TikHub
+
+- **🏠 Home**: [https://www.tikhub.io](https://www.tikhub.io)
+- **👨‍💻 Github**: [https://github.com/TikHub](https://github.com/TikHub)
+- **⚡ Documents (Swagger UI)**: [https://api.tikhub.io](https://api.tikhub.io)
+- **🦊 Documents (Apifox UI)**: [https://docs.tikhub.io](https://docs.tikhub.io)
+- **🍱 SDK**: [https://github.com/TikHub/TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK)
+- **🐙 Demo Code (GitHub)**: [https://github.com/TikHub/TikHub-API-Demo](https://github.com/TikHub/TikHub-API-Demo)
+- **📶 API Status**: [https://monitor.tikhub.io](https://monitor.tikhub.io)
+- **📧 Support**: [Discord Server](https://discord.gg/aMEAS8Xsvz)
