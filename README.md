@@ -9,26 +9,6 @@ Currently working on **Agentfy**, a multi-agent automation platform for social m
 - 💼 Specialties: Python · FastAPI · Streamlit · LLM Orchestration · Social Media Analytics  
 - 🧩 Interests: Agent systems, data pipelines, NLP, computer vision
 
----
-
-## 🛠️ Tech Stack
-
-| Domain               | Tools & Frameworks                                      |
-|---------------------|----------------------------------------------------------|
-| Programming          | Python, JavaScript                                       |
-| Backend/API          | FastAPI, Django, RESTful APIs                            |
-| Frontend/UI          | Streamlit, TailwindCSS                                   |
-| AI/LLM               | OpenAI API, LangChain, multi-agent architectures         |
-| Data Processing      | Pandas, SQL, asyncio, real-time scraping                 |
-
----
-
-## 🚀 Projects
-
-- **Agentfy** — Multi-agent platform for social media task automation  
-- **TikHub** — Foundational data engine powering real-time insights from platforms like TikTok, X, and YouTube  
-- **Impactlytics** — Causal analysis of content performance for influencers and brands
-
 --
 ## 📫 Contact  
 - Email: [lqiu314@gmail.com](mailto:lqiu314@gmail.com)
