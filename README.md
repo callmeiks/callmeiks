@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 I'm a tech-savvy developer focused on building intelligent, modular AI systems.  
-Currently working on **[Agentfy](https://github.com/Agentfy-io/Agentfy)**, a multi-agent automation platform for social media intelligence.
+Currently working on **[Agentfy](https://github.com/Agentfy-io/Agentfy)**, a multi-agent automation platform for social media intelligence build based on existing Business **[TikHub](https://www.tikhub.io)**
 
 - 🎓 Current: University of Southern California (Class of 2025)
 - 🎯 Incoming: Carnegie Mellon University (Class of 2026)
