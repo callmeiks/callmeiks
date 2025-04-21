@@ -32,7 +32,7 @@ Join our [Discord community](https://discord.gg/aMEAS8Xsvz) and be part of this 
 - 🦊 [TikHub API Docs (Apifox UI)](https://docs.tikhub.io)
 - 🍱 [TikHub Python SDK](https://github.com/TikHub/TikHub-API-Python-SDK)
 - 📧 [TikHub Discord Support](https://discord.gg/aMEAS8Xsvz)
-- ✉️ [TikHub Email Support](mailto:tikhub.io@proton.me)
+- ✉️ [TikHub Email Support](mailto:tikhub.io@proton.me) tikhub.io@proton.me
 
 ---
 
@@ -46,6 +46,6 @@ Agentfy supports multi-agent communication and collaboration, allowing sub-agent
 
 - 🛠️ [Agentfy GitHub](https://github.com/Agentfy-io/Agentfy)
 - ⚡ [Agentfy API Docs](https://api.agentfy.io)
-- ✉️ [Agentfy Email Support](mailto:support@agentfy.io)
+- ✉️ [Agentfy Email Support](mailto:support@agentfy.io) support@agentfy.io
 
 ---
