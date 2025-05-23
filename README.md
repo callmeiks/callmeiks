@@ -6,8 +6,8 @@ Currently working on **[Agentfy](https://github.com/Agentfy-io/Agentfy)**, a mul
 
 - 🎓 Current: University of Southern California (Class of 2025)
 - 🎯 Incoming: Carnegie Mellon University (Class of 2026)
-- 💼 Specialties: Python · FastAPI · Streamlit · LLM Orchestration · Social Media Analytics  
-- 🧩 Interests: Agent systems, data pipelines, NLP, computer vision
+- 💼 Specialties: Python · FastAPI · LLM Orchestration  
+- 🧩 Interests: Agent systems, data pipelines
 
 ---
 
